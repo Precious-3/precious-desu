@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+How to reach me:  
+[Telegram](https://t.me/reizen_desu)
+
+![](https://komarev.com/ghpvc/?username=reizen-desu)
 <!--
 **reizen-desu/reizen-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
