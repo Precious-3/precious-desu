@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey Guys👋
+
+Fun fact: There's no fun fact.
 
 How to reach me:  
 [Telegram](https://t.me/reizen_desu)
