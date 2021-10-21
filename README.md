@@ -3,9 +3,15 @@
 Fun fact: There's no fun fact.
 
 How to reach me:  
-[Telegram](https://t.me/reizen_desu)
+[Telegram](https://t.me/reizen_des
+<img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
+
 
 ![](https://komarev.com/ghpvc/?username=reizen-desu)
+
+
+
+
 <!--
 **reizen-desu/reizen-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
