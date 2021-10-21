@@ -3,7 +3,7 @@
 Fun fact: There's no fun fact.
 
 How to reach me:  
-[Telegram](https://t.me/reizen_des
+[Telegram](https://t.me/reizen_desu)
 <img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
 
 
