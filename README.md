@@ -2,7 +2,7 @@
 
 ## :sparkles: Highlights
 
-- :snake: Currently doing the [Fullstack course](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) on  Udacity
+- :snake: Currently developing in Django
 - :man_technologist: Computer Science student
 - :brain: Constantly building my second brain on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate
