@@ -6,7 +6,7 @@
 - :man_technologist: Computer Science student
 - :brain: Constantly building my second brain on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate
-- :mailbox_with_no_mail: How to reach me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/reizen_desu) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reizen-iunus/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](reizen.dos.santos@gmail.com)
+- :mailbox_with_no_mail: How to reach me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/reizen_desu) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reizen-dos-santos/) [![Gmail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](hello@reizen-desu.com)
 
 
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/reizen-desu)
