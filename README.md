@@ -2,7 +2,7 @@
 
 ## :sparkles: Highlights
 
-- :snake: Currently developing in Django
+- :snake: Currently developing in Django | Exploring about Astro
 - :man_technologist: Computer Science student
 - :brain: Constantly building my second brain on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate
