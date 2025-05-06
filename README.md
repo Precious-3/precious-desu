@@ -1,8 +1,8 @@
-### Meow everyone!! 😽
+# Meow everyone!! 😽
   Why are you here? Anyways, this is all about me. <3
 
 ## :sparkles: Highlights
-
+- 🖤 Call me Precious
 - :snake: Currently tamperring with several techs such as Django, Quasar, Flutter | Exploring about Astro
 - :man_technologist: Computer Science student | Software Engineer.
 - :brain: Constantly thinking of universal philosofical issues, I create my writings on [Obsidian](https://obsidian.md/)
