@@ -1,5 +1,5 @@
 ### Meow everyone!! 😽
-  Why are you here? anyways. here is what you can know about me.
+  Why are you here? anyways. However, this is all about me. <3
 
 ## :sparkles: Highlights
 
