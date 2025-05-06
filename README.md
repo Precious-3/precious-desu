@@ -1,10 +1,11 @@
-### meow everyone! 😽
+### Meow everyone!! 😽
+  Why are you here? anyways. here is what you can know about me.
 
 ## :sparkles: Highlights
 
 - :snake: Currently tamperring with several techs such as Django, Quasar, Flutter | Exploring about Astro
 - :man_technologist: Computer Science student | Software Engineer.
-- :brain: Constantly thinking of universal issues, I create my writings on [Obsidian](https://obsidian.md/)
+- :brain: Constantly thinking of universal philosofical issues, I create my writings on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate and get a remote job 💻
 - :mailbox_with_no_mail: How to reach me: No way! Just follow me here 😝
 
@@ -19,7 +20,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)
 
@@ -34,7 +34,6 @@
 <div align="center">
 
 <img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
-
 
 ![](https://komarev.com/ghpvc/?username=reizen-desu)
 
