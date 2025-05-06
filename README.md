@@ -3,7 +3,7 @@
 
 ## :sparkles: Highlights
 - 🖤 Call me Precious
-- 🐈‍⬛: Oftenly Tinkering with several techs such as Django, Quasar, Flutter | Exploring about Astro
+- 🐱: Oftenly Tinkering with several techs such as Django, Quasar, Flutter | Exploring about Astro
 - :man_technologist: Computer Science student | Software Engineer.
 - :brain: Constantly thinking of universal philosofical issues, I create my writings on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate and get a remote job 💻
