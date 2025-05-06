@@ -35,6 +35,4 @@
 
 <img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
 
-![](https://komarev.com/ghpvc/?username=reizen-desu)
-
 </div>
