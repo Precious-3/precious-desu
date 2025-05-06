@@ -1,4 +1,4 @@
-### Hello 👀 🐱meow everyone!
+### meow everyone! 😽
 
 ## :sparkles: Highlights
 
@@ -32,8 +32,6 @@
 <hr>
 
 <div align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img height="283.5em" src="https://github-activity-graph-bpires.herokuapp.com/graph?username=reizen-desu&bg_color=050f2c&color=ffffff&line=2ddd98&point=00adfe&area_color=2ddd98&area=true&hide_border=false&custom_title=GitHub%20Last%2031%20days%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img alt="snake" src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"  width="100%" />
 
