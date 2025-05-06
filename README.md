@@ -1,5 +1,5 @@
 ### Meow everyone!! 😽
-  Why are you here? anyways. However, this is all about me. <3
+  Why are you here? Anyways, this is all about me. <3
 
 ## :sparkles: Highlights
 
